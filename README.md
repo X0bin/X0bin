@@ -2,7 +2,7 @@
 
 ### My name is Lucas 😄 here goes some infos about me:
 
-- ⚡ Studying for a bachelor's degree in computer science.
+- ⚡ Studying computer science in UNICSUL.
 - 🌱 I’m currently learning Java, Linux OS and PostgreSQL.
 - 📫 How to reach me: lu_alima@hotmail.com
 - 😄 Pronouns: he/him.
