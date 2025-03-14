@@ -1,11 +1,14 @@
-# <center>***Hi there 👋 Welcome***! </center>
+<h1 align="center">
+  Hi there👋 Welcome!
+</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/KRGfoGCVjOUAAAAM/shark-dance.gif" alt="Tubarãogif" width="250">
 </p>
 
-
-### <center>I'm ***Lucas*** 😄 here goes some infos about me:
+<h3 align="center">
+    I'm Lucas 😄 here goes some infos about me:
+</h3>
 <br>
 
 - ⚡ Studying computer science in **UNICSUL**.
@@ -20,7 +23,7 @@
 
 
 
-## <center><b><i> 🏫 Courses
+## 🏫 Courses
 
 > 🎓Completed
 ---
