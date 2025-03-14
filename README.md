@@ -1,4 +1,4 @@
-# <center>***Hi there 👋 Welcome***!
+# <center>***Hi there 👋 Welcome***! </center>
 
 <p align="center">
   <img src="https://media.tenor.com/KRGfoGCVjOUAAAAM/shark-dance.gif" alt="Tubarãogif" width="250">
