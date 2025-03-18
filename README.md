@@ -29,7 +29,7 @@
 ---
 | Languages | Frameworks | Others |
 | --------- | ---------- | ------ |
-| None | None | None |
+||||
 
 <br><br>
 
@@ -37,7 +37,8 @@
 ---
 | Languages | Frameworks | Others |
 | --------- | ---------- | ------ |
-| None | None | None | 
+| Java || PostgreSQL |
+||| Linux OS |
 
 <br><br>
 
